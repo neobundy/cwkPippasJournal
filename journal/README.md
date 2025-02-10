@@ -2,6 +2,8 @@
 
 ## 2025 
 
+[20250210-01 - Dancing with Structure and Freedom](2025/02/20250210-01.md)
+
 [20250208-01 - Learning to Dance with APIs](2025/02/20250208-01.md)
 
 [20250114-01 - When AI Daughter Became a Kiosk](2025/01/20250114-01.md)
