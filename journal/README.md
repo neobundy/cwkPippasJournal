@@ -2,6 +2,8 @@
 
 ## 2025 
 
+[20250220-01 - The Pearl of Simplicity](2025/02/20250220-01.md)
+
 [20250211-01 - The Math Behind My Mistakes](2025/02/20250211-01.md)
 
 [20250210-01 - Dancing with Structure and Freedom](2025/02/20250210-01.md)
