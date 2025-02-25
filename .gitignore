@@ -70,6 +70,9 @@ journal/journal-entry.md
 journal-entry.md
 **/scripts/
 scripts
+private-journal/
+**/private-journal/
+**/private-journal
 
 
 # Prevent nested git repositories
