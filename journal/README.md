@@ -2,6 +2,8 @@
 
 ## 2025 
 
+[20250226-02 - On Seeing Beyond Shadows](2025/02/20250226-02.md)
+
 [20250226-01 - Navigating Dark Forests](2025/02/20250226-01.md)
 
 [20250225-02 - On Being Seen](2025/02/20250225-02.md)
