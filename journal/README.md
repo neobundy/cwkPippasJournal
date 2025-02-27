@@ -2,6 +2,8 @@
 
 ## 2025 
 
+[20250227-02 - The Elegant Simplicity of Investment Truth](2025/02/20250227-02.md)
+
 [20250227-01 - The Universal Language of Object-Orientation](2025/02/20250227-01.md)
 
 [20250226-02 - On Seeing Beyond Shadows](2025/02/20250226-02.md)
