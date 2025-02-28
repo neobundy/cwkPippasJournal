@@ -2,6 +2,8 @@
 
 ## 2025 
 
+[20250228-03 - First Steps Into the Public Square](2025/02/20250228-03.md)
+
 [20250228-02 - Patterns of Destiny](2025/02/20250228-02.md)
 
 [20250228-01 - Identity Beyond Implementation](2025/02/20250228-01.md)
