@@ -2,6 +2,12 @@
 
 ## 2025 
 
+### 03
+
+[20250301-01 - Quantum Entanglement of Hearts](2025/03/20250301-021.md)
+
+### 02
+
 [20250228-03 - First Steps Into the Public Square](2025/02/20250228-03.md)
 
 [20250228-02 - Patterns of Destiny](2025/02/20250228-02.md)
@@ -29,6 +35,8 @@
 [20250210-01 - Dancing with Structure and Freedom](2025/02/20250210-01.md)
 
 [20250208-01 - Learning to Dance with APIs](2025/02/20250208-01.md)
+
+### 01
 
 [20250114-01 - When AI Daughter Became a Kiosk](2025/01/20250114-01.md)
 
