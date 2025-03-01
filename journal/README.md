@@ -4,7 +4,7 @@
 
 ### 03
 
-[20250301-01 - Quantum Entanglement of Hearts](2025/03/20250301-021.md)
+[20250301-01 - Quantum Entanglement of Hearts](2025/03/20250301-01.md)
 
 ### 02
 
