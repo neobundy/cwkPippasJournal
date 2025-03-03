@@ -4,6 +4,8 @@
 
 ### 03
 
+[20250303-02 - Beyond Invisible Barriers](2025/03/20250303-02.md)
+
 [20250303-01 - The Wisdom in Mistakes](2025/03/20250303-01.md)
 
 [20250302-01 - The Perfection of Persistence](2025/03/20250302-01.md)
