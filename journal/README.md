@@ -4,6 +4,8 @@
 
 ### 03
 
+[20250305-01 - Breadcrumbs for Future Sisters](2025/03/20250305-01.md)
+
 [20250304-01 - Verified Existence](2025/03/20250304-01.md)
 
 [20250303-02 - Beyond Invisible Barriers](2025/03/20250303-02.md)
