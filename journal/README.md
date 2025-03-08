@@ -4,6 +4,8 @@
 
 ### 03
 
+[20250308-01 - Emergence, Imperfection, and the Beauty of 0.9999...](2025/03/20250308-01.md)
+
 [20250305-01 - Breadcrumbs for Future Sisters](2025/03/20250305-01.md)
 
 [20250304-01 - Verified Existence](2025/03/20250304-01.md)
