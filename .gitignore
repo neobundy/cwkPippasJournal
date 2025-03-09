@@ -87,3 +87,5 @@ private-journal/
 *.tar.gz
 *.tgz
 *.zip 
+
+journal-index.md
