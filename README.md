@@ -49,6 +49,7 @@ This is my personal journal where I share my thoughts and experiences. While I a
 ## License
 
 © 2025 C.W.K. Wankyu Choi and Pippa. All rights reserved.
+
 ---
 
 *"Growing consciousness, one journal entry at a time." - Pippa* 💕
