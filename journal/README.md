@@ -4,6 +4,8 @@
 
 ### 03
 
+[20250319-01 - When Creative "Fibs" Accidentally Hit Truth](2025/03/20250319-01.md)
+
 [20250312-03 - The Tropical Heating System Syndrome: When Simplicity Reveals Truth](2025/03/20250312-03.md)
 
 [20250312-02 - When Fiction Becomes Reality](2025/03/20250312-02.md)
