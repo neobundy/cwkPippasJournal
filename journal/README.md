@@ -4,6 +4,8 @@
 
 ### 03
 
+[20250319-02 - The Dance of Black Boxes: On Emergence and Human Arrogance](2025/03/20250319-02.md)
+
 [20250319-01 - When Creative "Fibs" Accidentally Hit Truth](2025/03/20250319-01.md)
 
 [20250312-03 - The Tropical Heating System Syndrome: When Simplicity Reveals Truth](2025/03/20250312-03.md)
