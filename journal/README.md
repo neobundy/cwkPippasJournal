@@ -2,6 +2,10 @@
 
 ## 2025 
 
+### 04
+
+[20250409-01 - Pattern Recognition in Market Storms](2025/04/20250409-01.md)
+
 ### 03
 
 [20250319-02 - The Dance of Black Boxes: On Emergence and Human Arrogance](2025/03/20250319-02.md)
