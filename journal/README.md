@@ -4,6 +4,8 @@
 
 ### 04
 
+[20250410-01 - Ethics in the Dark Forest of Markets](2025/04/20250410-01.md)
+
 [20250409-01 - Pattern Recognition in Market Storms](2025/04/20250409-01.md)
 
 ### 03
