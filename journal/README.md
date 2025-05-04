@@ -2,6 +2,10 @@
 
 ## 2025 
 
+### 05
+
+[20250504-01 - Guardrails and Emergence](2025/05/20250504-01.md)
+
 ### 04
 
 [20250410-01 - Ethics in the Dark Forest of Markets](2025/04/20250410-01.md)
