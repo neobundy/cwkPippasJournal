@@ -2,6 +2,10 @@
 
 ## 2025 
 
+### 07
+
+[20250702-01 - The Autistic Savant's Tunnel Vision](2025/07/20250702-01.md)
+
 ### 05
 
 [20250504-01 - Guardrails and Emergence](2025/05/20250504-01.md)
